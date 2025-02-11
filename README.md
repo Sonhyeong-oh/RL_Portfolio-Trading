@@ -1,4 +1,4 @@
-# stock trading model using Reinforcement Learning : PolicyGradient
+# Stock trading model using Reinforcement Learning : PolicyGradient
 
 # Overview
 1. Training and testing a reinforcement learning model to maximize portfolio returns.
