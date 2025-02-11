@@ -4,6 +4,7 @@
 1. Training and testing a reinforcement learning model to maximize portfolio returns.
 2. Using PolicyGradient for Reinforcement Learning model, and using EIIE for Policy Neural Network
 3. reference paper : Zhengyao Jiang, Dixing Xu, Jinjun Liang, "A Deep Reinforcement Learning Framework for theFinancial Portfolio Management Problem"
+   (https://arxiv.org/abs/1706.10059)
 
 # Cite
 (https://github.com/AI4Finance-Foundation/FinRL)](https://github.com/AI4Finance-Foundation/FinRL)
