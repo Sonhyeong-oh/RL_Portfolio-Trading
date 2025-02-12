@@ -1,3 +1,5 @@
+# if you want to print out the action values in every episode, download and import this file
+
 """
 DRL models to solve the portfolio optimization task with reinforcement learning.
 This agent was developed to work with environments like PortfolioOptimizationEnv.
