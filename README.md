@@ -6,7 +6,7 @@
 1. Model for Submission of Papers for the ASK2025 Conference.
 2. Training and testing a reinforcement learning model to maximize portfolio returns.
 3. Using PolicyGradient for Reinforcement Learning model, and using EIIE for Policy Neural Network
-4. reference paper : Zhengyao Jiang, Dixing Xu, Jinjun Liang, "A Deep Reinforcement Learning Framework for theFinancial Portfolio Management Problem"
+4. Reference paper : Zhengyao Jiang, Dixing Xu, Jinjun Liang, "A Deep Reinforcement Learning Framework for theFinancial Portfolio Management Problem"
    (https://arxiv.org/abs/1706.10059)
 
 # Cite
