@@ -10,7 +10,7 @@
    (https://arxiv.org/abs/1706.10059)
 
 # Cite
-(https://github.com/AI4Finance-Foundation/FinRL)](https://github.com/AI4Finance-Foundation/FinRL)
+https://github.com/AI4Finance-Foundation/FinRL
 
 @article{finrl2020,
     author  = {Liu, Xiao-Yang and Yang, Hongyang and Chen, Qian and Zhang, Runjia and Yang, Liuqing and Xiao, Bowen and Wang, Christina Dan},
