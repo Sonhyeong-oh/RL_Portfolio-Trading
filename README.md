@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
-# Stock trading model using Reinforcement Learning : PolicyGradient
+# Stock trading model using Reinforcement Learning
 
 # Overview
 1. Reinforcement Learning Model for Paper Submission to ASK2025 Conference.
