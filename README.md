@@ -12,7 +12,6 @@
 # Paper Link
 Annual Conference of KIPS (한국정보처리학회:학술대회논문집) Vol. 32, No. 1
 Reinforcement Learning-based Industry Portfolio Trading Model
-[https://www.manuscriptlink.com/society/kips/conference/ask2025/file/downloadSoConfManuscript/abs/KIPS_C2025A0027F]
 (https://www.koreascience.kr/article/CFKO202520954006177.view?orgId=anpor&hide=breadcrumb,journalinfo)
 
 # Cite
