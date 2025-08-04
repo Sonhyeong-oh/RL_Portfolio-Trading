@@ -9,6 +9,9 @@
 4. Reference paper : Zhengyao Jiang, Dixing Xu, Jinjun Liang, "A Deep Reinforcement Learning Framework for theFinancial Portfolio Management Problem"
    (https://arxiv.org/abs/1706.10059)
 
+# Paper
+https://www.manuscriptlink.com/society/kips/conference/ask2025/file/downloadSoConfManuscript/abs/KIPS_C2025A0027F
+
 # Cite
 https://github.com/AI4Finance-Foundation/FinRL
 
