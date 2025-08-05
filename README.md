@@ -2,6 +2,13 @@
 
 # Portfolio trading model using Reinforcement Learning
 
+<img width="219" height="182" alt="image" src="https://github.com/user-attachments/assets/3d90718c-f0c2-4e5d-a11f-c0b5597ddc1d" />
+
+<img width="311" height="142" alt="image" src="https://github.com/user-attachments/assets/ac895478-3174-4004-8f96-2805b49c508b" />
+
+<img width="308" height="173" alt="image" src="https://github.com/user-attachments/assets/2b20be83-bca4-4a7e-bd24-998cee7fab35" />
+
+
 # Overview
 1. Reinforcement Learning Model for Paper Submission to ASK2025 Conference.
 2. Training and testing a reinforcement learning model to maximize portfolio returns.
@@ -11,8 +18,11 @@
 
 # Code Description
 Data - Stock Data for Training Model
+
 Model - Data Preprocessing Code & Finanacial Reinforcement Learning Model
+
 Param - Parameter Tuning based on Sharpe Ratio for FinRL Model
+
 visual - Show Line Graph for comparing with FinRL and Buy and Hold Strategy
 
 # Paper Link
