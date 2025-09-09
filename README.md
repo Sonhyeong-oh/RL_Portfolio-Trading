@@ -33,7 +33,7 @@ visual - Show Line Graph for comparing with FinRL and Buy and Hold Strategy
 
 (https://www.koreascience.kr/article/CFKO202520954006177.view?orgId=anpor&hide=breadcrumb,journalinfo)
 
-# Cite
+# Reference
 https://github.com/AI4Finance-Foundation/FinRL
 
 @article{finrl2020,
