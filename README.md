@@ -3,13 +3,16 @@
 # Portfolio trading model using Reinforcement Learning
 
 - AI Model Workflow
-<img width="219" height="182" alt="image" src="https://github.com/user-attachments/assets/3d90718c-f0c2-4e5d-a11f-c0b5597ddc1d" />
-
-<img width="311" height="142" alt="image" src="https://github.com/user-attachments/assets/ac895478-3174-4004-8f96-2805b49c508b" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2f533242-4a0f-48ce-a6c8-1014118e2c33" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4245a864-7f50-4e52-94b4-77a4760251f0" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/00a051bc-9258-4f67-89e8-67778bb0db08" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a9668d9b-fbcf-419b-b820-236f97f412b1" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fb4fa43b-43c0-4793-aa22-794b672deeff" />
 
 
 - Test Result Visualization
-<img width="308" height="173" alt="image" src="https://github.com/user-attachments/assets/2b20be83-bca4-4a7e-bd24-998cee7fab35" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f38e3ef1-c2d4-474d-a104-3457f3159abd" />
+
 
 
 # Overview
