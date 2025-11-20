@@ -29,7 +29,7 @@ Model - Data Preprocessing Code & Finanacial Reinforcement Learning Model
 
 Param - Parameter Tuning based on Sharpe Ratio for FinRL Model
 
-visual - Show Line Graph for comparing with FinRL and Buy and Hold Strategy
+etc - custom model (not use)
 
 # Paper Link
 "Reinforcement Learning-based Industry Portfolio Trading Model", Annual Conference of KIPS (한국정보처리학회:학술대회논문집) Vol. 32, No. 1
