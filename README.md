@@ -5,7 +5,6 @@
 - AI Model Workflow
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2f533242-4a0f-48ce-a6c8-1014118e2c33" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4245a864-7f50-4e52-94b4-77a4760251f0" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/00a051bc-9258-4f67-89e8-67778bb0db08" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a9668d9b-fbcf-419b-b820-236f97f412b1" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fb4fa43b-43c0-4793-aa22-794b672deeff" />
 
